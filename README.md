@@ -1,16 +1,17 @@
 ### I'm Softare Arhitect, Team Leader, Software Engineer 👋
 
 I have been working with IT more 10 years. Currently, I work as a Senior Software Engineer in outsource company.
-
-
+<br />
 
 ### Connect with me:
-
-
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/live-dev999/live-dev999/master/assets/icons8-linkedin-circled.svg" />][linkedin]
+<br />
 ### Support me:
 
 <!--
 **live-dev999/live-dev999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[linkedin]: https://www.linkedin.com/in/denis-prokhorchik-7a842286
 
 Here are some ideas to get you started:
 
