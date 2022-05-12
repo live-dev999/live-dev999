@@ -11,6 +11,9 @@ I have been working with IT more 10 years. Currently, I work as a Senior Softwar
 
 ### Support me:
 
+### Languages and Tools:
+<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
+
 
 [linkedin]: https://www.linkedin.com/in/denis-prokhorchik-7a842286
 <!--
