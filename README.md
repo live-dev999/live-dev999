@@ -2,12 +2,12 @@
 
 I have been working with IT more 10 years. Currently, I work as a Senior Software Engineer in outsource company.
 <br />
-
+<br />
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="48px" src="https://raw.githubusercontent.com/live-dev999/live-dev999/master/assets/icons8-linkedin-circled.svg" />][linkedin]
 
 <br />
-
+<br />
 
 ### Support me:
 
