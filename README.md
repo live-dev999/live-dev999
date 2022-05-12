@@ -24,6 +24,16 @@ I have been working with IT more 10 years. Currently, I work as a Senior Softwar
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
+:zap: GitHub Stats
+
+<img align="left" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=live-dev999&show_icons=true&hide_border=true&count_private=true" />
+
+<details>
+  <summary>:zap: Recent GitHub Activities</summary>
+  
+  
+  
+  
 [linkedin]: https://www.linkedin.com/in/denis-prokhorchik-7a842286
 <!--
 **live-dev999/live-dev999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
