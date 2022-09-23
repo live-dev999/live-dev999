@@ -1,4 +1,4 @@
-### I'm Softare Arhitect, Team Leader, Software Engineer 👋
+### I'm Software Arhitect, Team Leader, Software Engineer 👋
 
 I have been working with IT more 10 years. Currently, I work as a Senior Software Engineer in outsource company.
 <br />
