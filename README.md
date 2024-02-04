@@ -1,6 +1,6 @@
 ### I'm Software Arhitect, Team Leader, Software Engineer 👋
 
-I have been working with IT more 10 years. Currently, I work as a Senior Software Engineer in outsource company.
+I have been working with IT more 12 years. Currently, I work as a Senior Software Engineer in outsource company.
 <br />
 <br />
 ### Connect with me:
